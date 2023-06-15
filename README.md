@@ -1,4 +1,4 @@
-## horiseon-first-challenge
+## horiseon-website-update
 
 ## Description
 
@@ -25,4 +25,4 @@ https://iqwixn.github.io/horiseon-website-update/
 
 ## Website screenshot
 
-![Screenshot of Horiseon website](images/horiseon-website-screenshot.png)
+![Screenshot of Horiseon website](horiseon-website-update/assets/images/horiseon-website-screenshot.png)
