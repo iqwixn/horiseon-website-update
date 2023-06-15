@@ -19,3 +19,10 @@ Removed an unncessary span class .seo that did nothing
 Changed HTML elements to follow proper structure
 Added alt attributes to pictures for website accessibility
 
+## Website Link
+
+https://iqwixn.github.io/horiseon-website-update/
+
+## Website screenshot
+
+![Screenshot of Horiseon website](assets\images\horieseon-website-screenshot.png) 
