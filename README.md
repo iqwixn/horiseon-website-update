@@ -1,10 +1,10 @@
-##horiseon-first-challenge
+## horiseon-first-challenge
 
-##Description
+## Description
 
 This website needed its code consolidated and cleaned up for the customer. It contains changes to index.hml and style.css.
 
-##Acceptance Criteria
+## Acceptance Criteria
 
 Find semantic HTML elements 
 Elements follow a logical structure independent of styling and positioning 
@@ -12,7 +12,7 @@ Find accessible alt altributes
 Heading attributes fall in sequential order 
 Find a concise, descriptive title
 
-##Work Completed
+## Work Completed
 
 Changed the title to the heading
 Removed an unncessary span class .seo that did nothing
@@ -25,4 +25,4 @@ https://iqwixn.github.io/horiseon-website-update/
 
 ## Website screenshot
 
-![Screenshot of Horiseon website](C:\Users\Administrator\bootcamp\horiseon-website-update\assets\images\horieseon-website-screenshot.png) 
+![Screenshot of Horiseon website](.assets\images\horieseon-website-screenshot.png)
