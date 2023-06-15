@@ -25,4 +25,4 @@ https://iqwixn.github.io/horiseon-website-update/
 
 ## Website screenshot
 
-![Screenshot of Horiseon website](assets\images\horieseon-website-screenshot.png) 
+![Screenshot of Horiseon website](C:\Users\Administrator\bootcamp\horiseon-website-update\assets\images\horieseon-website-screenshot.png) 
